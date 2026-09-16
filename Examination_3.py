@@ -6,7 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-password = input()
 password = input(password(1234))
 input : int(input(string))
 output : out(output(too Short))
