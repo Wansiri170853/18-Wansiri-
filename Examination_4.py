@@ -7,3 +7,6 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input()
+color = input(color)
+input : int("red ,yellow "green , )
+output : out ( "stop red" | "show yellow" |"go| green" | "Invalid" )
