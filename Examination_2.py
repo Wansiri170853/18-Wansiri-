@@ -6,5 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+total_minutes = int(input())
+a = int(input(5))
+b = int(input(2))
+input : (int(intput)5 < 2 )
+output : (output(A is greater = 5 < 2 ))
