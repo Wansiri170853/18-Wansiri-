@@ -6,7 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-total_minutes = int(input())
 a = int(input(5))
 b = int(input(2))
 input : (int(intput)5 < 2 )
